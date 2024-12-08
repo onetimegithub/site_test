@@ -1,2 +1,2 @@
 # AntiDDoS
-## 5 seconds JS Challenge
+## Simple 5 seconds JS Challenge
